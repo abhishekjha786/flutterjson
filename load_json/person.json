@@ -1,0 +1,29 @@
+[{
+        "name": "Abhishek Jha",
+        "age ": "19",
+        "height": "178",
+        "gender": "male",
+        "hair_color": "Black"
+    },
+    {
+        "name": "Chetan Jha",
+        "age ": "12",
+        "height": "158",
+        "gender": "male",
+        "hair_color": "Black"
+    },
+    {
+        "name": "Shruti Jha",
+        "age ": "17",
+        "height": "168",
+        "gender": "female",
+        "hair_color": "Black"
+    },
+    {
+        "name": "Khushi Jha",
+        "age ": "17",
+        "height": "178",
+        "gender": "female",
+        "hair_color": "Black"
+    }
+]
