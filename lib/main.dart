@@ -27,7 +27,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return new Scaffold(
       appBar: new AppBar(
-        title: new Text("Load Json App"),
+        title: new Text("Load - Json - App"),
       ),
       body: new Container(
         child: new Center(
